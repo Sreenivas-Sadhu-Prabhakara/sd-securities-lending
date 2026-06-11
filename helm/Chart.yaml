@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-securities-lending
+description: "BIAN Service Domain: Securities Lending (Fulfill pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - fulfill
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Securities"
+  bian/asset-type: "Securities Loan"
+  bian/control-record: "Securities Loan Fulfillment Arrangement"
